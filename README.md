@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SyedFahad-CS
 - 👀 I’m interested in ... Web Devlopment , React 
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... HTML CSS JavaScript
+- 💞️ I’m looking to collaborate on ... Any web devlopment Projects.
 - 📫 How to reach me ...
 
 <!---
