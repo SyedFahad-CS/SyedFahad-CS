@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Technical Skills <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h1>
    
-I am a Web Developer having knowledge of HTML, CSS, Javascript, ReactJS. Currently, I am learning API creation and Backend development.
+I am a Web Developer having knowledge of HTML, CSS, Javascript, ReactJS. Currently, I am learning React Development.
 
 <p align="">
 
