@@ -8,7 +8,7 @@
 SyedFahad-CS/SyedFahad-CS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SyedFahad-CS)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SyedFahad-CS)](https://git.io/streak-stats) -->
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/syed-fahad-cs/" target="_blank"> Syed Fahad</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
@@ -26,7 +26,7 @@ I am a Web Developer having knowledge of HTML, CSS, Javascript, ReactJS. Current
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />   
-   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<!--    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> -->
 <!--           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> -->
 <!--          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> -->
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> -->
