@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyedFahad-CS
+- 👋 Hi, I’m Syed Fahad Andrabi 
 - 👀 I’m interested in ... Web Devlopment , React 
 - 🌱 I’m currently learning ... HTML CSS JavaScript
 - 💞️ I’m looking to collaborate on ... Any web devlopment Projects.
